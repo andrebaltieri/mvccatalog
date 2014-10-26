@@ -1,0 +1,5 @@
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Domain\bin\Debug\MvcCatalog.Domain.dll
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Domain\bin\Debug\MvcCatalog.Domain.pdb
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Domain\obj\Debug\MvcCatalog.Domain.rewritten
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Domain\obj\Debug\MvcCatalog.Domain.dll
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Domain\obj\Debug\MvcCatalog.Domain.pdb

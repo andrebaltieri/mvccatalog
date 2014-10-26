@@ -1,0 +1,4 @@
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Domain\bin\Release\MvcCatalog.Domain.dll
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Domain\bin\Release\MvcCatalog.Domain.pdb
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Domain\obj\Release\MvcCatalog.Domain.dll
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Domain\obj\Release\MvcCatalog.Domain.pdb

@@ -1,0 +1,15 @@
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Data\bin\Release\MvcCatalog.Data.dll.config
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Data\bin\Release\MvcCatalog.Data.dll
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Data\bin\Release\MvcCatalog.Data.pdb
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Data\bin\Release\EntityFramework.dll
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Data\bin\Release\MvcCatalog.Domain.dll
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Data\bin\Release\MvcCatalog.Domain.pdb
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Data\bin\Release\EntityFramework.xml
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Data\obj\Release\MvcCatalog.Data.csprojResolveAssemblyReference.cache
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Data\obj\Release\MvcCatalog.Data.Migrations.InitialCreate.resources
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Data\obj\Release\MvcCatalog.Data.Migrations.Adicionado_Campo_Imagem_User.resources
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Data\obj\Release\MvcCatalog.Data.csproj.GenerateResource.Cache
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Data\obj\Release\MvcCatalog.Data.dll
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Data\obj\Release\MvcCatalog.Data.pdb

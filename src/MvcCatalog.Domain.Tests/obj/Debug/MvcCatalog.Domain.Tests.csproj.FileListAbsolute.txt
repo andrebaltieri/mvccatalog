@@ -1,0 +1,7 @@
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Domain.Tests\bin\Debug\MvcCatalog.Domain.Tests.dll
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Domain.Tests\bin\Debug\MvcCatalog.Domain.Tests.pdb
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Domain.Tests\bin\Debug\MvcCatalog.Domain.dll
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Domain.Tests\bin\Debug\MvcCatalog.Domain.pdb
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Domain.Tests\obj\Debug\MvcCatalog.Domain.Tests.csprojResolveAssemblyReference.cache
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Domain.Tests\obj\Debug\MvcCatalog.Domain.Tests.dll
+C:\Users\andrebaltieri\Documents\Visual Studio 2013\Projects\MvcCatalog\MvcCatalog.Domain.Tests\obj\Debug\MvcCatalog.Domain.Tests.pdb

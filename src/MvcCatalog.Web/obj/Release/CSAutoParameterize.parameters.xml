@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MvcCatalogConnectionString-Web.config Connection String" description="MvcCatalogConnectionString Connection String used in web.config by the application to access the database." defaultValue="Server=.\sqlexpress;Database=MvcCatalog;User ID=sa;Password=sqlexpress;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\andrebaltieri\\Documents\\Visual\ Studio\ 2013\\Projects\\MvcCatalog\\MvcCatalog\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MvcCatalogConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
